@@ -1,0 +1,6 @@
+{
+  "CRN.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\API",
+  "CRN.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\Application",
+  "CRN.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\Domain",
+  "CRN.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\Infrastructure"
+}

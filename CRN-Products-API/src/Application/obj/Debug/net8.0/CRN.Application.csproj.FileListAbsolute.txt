@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\CRN-Products-API\CRN-Products-API\src\Application\bin\Debug\net8.0\CRN.Application.deps.json
+C:\Users\HP\Downloads\CRN-Products-API\CRN-Products-API\src\Application\bin\Debug\net8.0\CRN.Application.dll
+C:\Users\HP\Downloads\CRN-Products-API\CRN-Products-API\src\Application\bin\Debug\net8.0\CRN.Application.pdb
+C:\Users\HP\Downloads\CRN-Products-API\CRN-Products-API\src\Application\bin\Debug\net8.0\CRN.Domain.dll
+C:\Users\HP\Downloads\CRN-Products-API\CRN-Products-API\src\Application\bin\Debug\net8.0\CRN.Domain.pdb
+C:\Users\HP\Downloads\CRN-Products-API\CRN-Products-API\src\Application\obj\Debug\net8.0\CRN.Application.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\CRN-Products-API\CRN-Products-API\src\Application\obj\Debug\net8.0\CRN.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\CRN-Products-API\CRN-Products-API\src\Application\obj\Debug\net8.0\CRN.Application.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\CRN-Products-API\CRN-Products-API\src\Application\obj\Debug\net8.0\CRN.Application.AssemblyInfo.cs
+C:\Users\HP\Downloads\CRN-Products-API\CRN-Products-API\src\Application\obj\Debug\net8.0\CRN.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\CRN-Products-API\CRN-Products-API\src\Application\obj\Debug\net8.0\CRN.Appl.266AF4CE.Up2Date
+C:\Users\HP\Downloads\CRN-Products-API\CRN-Products-API\src\Application\obj\Debug\net8.0\CRN.Application.dll
+C:\Users\HP\Downloads\CRN-Products-API\CRN-Products-API\src\Application\obj\Debug\net8.0\refint\CRN.Application.dll
+C:\Users\HP\Downloads\CRN-Products-API\CRN-Products-API\src\Application\obj\Debug\net8.0\CRN.Application.pdb
+C:\Users\HP\Downloads\CRN-Products-API\CRN-Products-API\src\Application\obj\Debug\net8.0\ref\CRN.Application.dll

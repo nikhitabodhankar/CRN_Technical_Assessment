@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\API\\CRN.API.csproj|c:\\users\\hp\\downloads\\crn-products-api\\crn-products-api\\src\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\API\\CRN.API.csproj|solutionrelative:src\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\Infrastructure\\CRN.Infrastructure.csproj|c:\\users\\hp\\downloads\\crn-products-api\\crn-products-api\\src\\infrastructure\\identity\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\Infrastructure\\CRN.Infrastructure.csproj|solutionrelative:src\\infrastructure\\identity\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\API\\CRN.API.csproj|c:\\users\\hp\\downloads\\crn-products-api\\crn-products-api\\src\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\API\\CRN.API.csproj|solutionrelative:src\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\API\\CRN.API.csproj|c:\\users\\hp\\downloads\\crn-products-api\\crn-products-api\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\API\\CRN.API.csproj|solutionrelative:src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\Infrastructure\\CRN.Infrastructure.csproj|c:\\users\\hp\\downloads\\crn-products-api\\crn-products-api\\src\\infrastructure\\data\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\Infrastructure\\CRN.Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|tests\\API.Tests\\CRN.API.Tests.csproj|c:\\users\\hp\\downloads\\crn-products-api\\crn-products-api\\tests\\api.tests\\crn.api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66666666-6666-6666-6666-666666666666}|tests\\API.Tests\\CRN.API.Tests.csproj|solutionrelative:tests\\api.tests\\crn.api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\API\\CRN.API.csproj|c:\\users\\hp\\downloads\\crn-products-api\\crn-products-api\\src\\api\\crn.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\API\\CRN.API.csproj|solutionrelative:src\\api\\crn.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\Infrastructure\\CRN.Infrastructure.csproj|c:\\users\\hp\\downloads\\crn-products-api\\crn-products-api\\src\\infrastructure\\migrations\\20260821053252_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\Infrastructure\\CRN.Infrastructure.csproj|solutionrelative:src\\infrastructure\\migrations\\20260821053252_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\API\\CRN.API.csproj|c:\\users\\hp\\downloads\\crn-products-api\\crn-products-api\\src\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\API\\CRN.API.csproj|solutionrelative:src\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\API\\CRN.API.csproj|c:\\users\\hp\\downloads\\crn-products-api\\crn-products-api\\src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\API\\CRN.API.csproj|solutionrelative:src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\API\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\API\\Program.cs",
+              "RelativeToolTip": "src\\API\\Program.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAawJAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T06:59:59.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\Infrastructure\\Data\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\Infrastructure\\Data\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T06:59:23.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "src\\API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "src\\API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T06:58:35.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\Infrastructure\\Identity\\TokenService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Identity\\TokenService.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\Infrastructure\\Identity\\TokenService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Identity\\TokenService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAawDEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T06:56:34.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T06:55:00.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CRN.API.Tests",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\tests\\API.Tests\\CRN.API.Tests.csproj",
+              "RelativeDocumentMoniker": "tests\\API.Tests\\CRN.API.Tests.csproj",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\tests\\API.Tests\\CRN.API.Tests.csproj",
+              "RelativeToolTip": "tests\\API.Tests\\CRN.API.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-21T06:51:51.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CRN.API",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\API\\CRN.API.csproj",
+              "RelativeDocumentMoniker": "src\\API\\CRN.API.csproj",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\API\\CRN.API.csproj",
+              "RelativeToolTip": "src\\API\\CRN.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-21T06:50:44.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260821053252_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\Infrastructure\\Migrations\\20260821053252_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20260821053252_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\Infrastructure\\Migrations\\20260821053252_InitialCreate.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Migrations\\20260821053252_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T05:32:53.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\API\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\API\\appsettings.json",
+              "RelativeToolTip": "src\\API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-21T05:11:21.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CRN-Products-API\\CRN-Products-API\\src\\API\\appsettings.Development.json",
+              "RelativeToolTip": "src\\API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-21T05:11:15.197Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
